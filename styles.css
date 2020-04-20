@@ -1,0 +1,21 @@
+.contain{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.profile-picture{
+	width: 100%;
+	height: 40px;
+	
+	
+
+}
+.information{
+	padding: 30px;
+}
+.information h1,h2,h3{
+	color: lightseagreen;
+}
+.information p{
+	font: 0.9em;
+	font-family: serif;
+}
